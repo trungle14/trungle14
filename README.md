@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Trung Le (Dennis)
 
-#### Hello, I'm glad to have you here
-*Cheer up your day with a burst of laughter and a byte of data-driven insights* ✨
+#### 👋 Hello, I’m @Trung Le (Dennis), I'm glad to have you here
+##### *Cheer up your day with a burst of laughter and a byte of data-driven insights* ✨
 
 - 👀 I’m a passionate data scientist having 5 years of experience in analytics role, ex-portfolio management head of consumer lending market leader
 - 🌱 I’m currently pursuing Master of Science of Business Analytics in Carlson School of Management - University of Minnesota 

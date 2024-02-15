@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="center">A passionate Data Scientist - Just a guy finds joy in debugging code more than I anticipate a text from my crush, and I’m more patient waiting for a model to run than for their elusive reply</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2553737-antnO-desk”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/shots/2553737-antnO-desk”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungle14&label=Profile%20views&color=0e75b6&style=flat" alt="trungle14" /> </p>
 

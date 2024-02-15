@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![Trung Le's github stats](https://github-readme-stats.vercel.app/api?username=aakritianeja&show_icons=true&theme=radical&envvariable=PAT_1)
 
 ### 📪 Break the visit counter by hitting refresh
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/aakritianeja">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/trungle14">
     <img src="https://profile-counter.glitch.me/aakritianeja/count.svg" />
 </div>
 

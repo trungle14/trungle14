@@ -1,5 +1,5 @@
 
-### 👋 Hello, I’m @Trung Le (Dennis), I'm glad to have you here
+### 👋 Hello, I’m @Trung (Dennis) Le , I'm glad to have you here
 #### *Cheer up your day with a burst of laughter and a byte of data-driven insights* ✨
 
 - 👀 I’m a passionate data scientist having 5 years of experience in analytics role, ex-Head of portfolio insights and management unit of consumer lending market leader #1
